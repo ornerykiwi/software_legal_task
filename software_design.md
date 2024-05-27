@@ -33,7 +33,7 @@ For documenting the architecture of software, a UML diagram would be the best wa
 
 ### Question 5 - what a strategy pattern is and how its implementation differs between functional and object oriented systems
 
-A strategy pattern defines a family of algortithms in a method, encapsulates each of them which allows them to be interchangeable but get you to the same output in different ways. It consists of a common interface for all concrete strategies. Like the different types of sorting methods (common interface) you can use to sort a list of integers, Quicksort, Bubblesort or Mergesort (concrete strategies).  
+A strategy pattern defines a family of algortithms in a method and encapsulates each of them. This allows them to be interchangeable but get you to the same output in different ways. It consists of a common interface for all concrete strategies. Like the different types of sorting methods (common interface) you can use to sort a list of integers, Quicksort, Bubblesort or Mergesort (concrete strategies).  
 
 | OOP | FP |
 | ----------- | ----------- |
